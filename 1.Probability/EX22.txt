@@ -1,0 +1,9 @@
+EXERCISE 22: (Computer Experiment.)
+
+Suppose we flip a coin n times and let p denote
+the probability of heads. Let X be the number of heads. We call X
+a binomial random variable, which is discussed in the next chapter.
+Intuition suggests that X will be close to np. To see if this is true, we
+can repeat this experiment many times and average the X values. 
+Carry out a simulation and compare the average of the X’s to np. Try this for
+p = .3 and n = 10, n = 100, and n = 1, 000.
