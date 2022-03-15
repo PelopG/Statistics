@@ -1,0 +1,6 @@
+Let X ∼ N(0, 1) and let Y = e^X.
+(a) Find the pdf for Y . Plot it.
+(b) (Computer Experiment.) Generate a vector x = (x1, . . . , x10,000) consisting of 10,000 random standard Normals. 
+Let y = (y1, . . . , y10,000)
+where yi = e^xi . 
+Draw a histogram of y and compare it to the pdf you found in part (a).
